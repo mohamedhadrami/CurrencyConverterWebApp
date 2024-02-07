@@ -1,0 +1,34 @@
+.
+├── public
+│   ├── png
+│   │   ├── logo-16.png
+│   │   ├── logo-256.png
+│   │   ├── logo-32.png
+│   │   └── logo-48.png
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src
+│   ├── components
+│   │   ├── About
+│   │   ├── Crypto
+│   │   ├── CurrencyConverter
+│   │   ├── Home
+│   │   ├── Stocks
+│   │   └── Vitals
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+├── README.md
+├── package-lock.json
+└── package.json
+
+11 directories, 21 files
